@@ -142,6 +142,12 @@ we just need to extract them into a new library.
 
 ## Future Work
 
+Much of the work currently being done is to help mathsteps migrate from mathjs
+to `math-parser` and `math-rules`.  The hope is that this work will be useful
+for other projects and developers as well.
+
+[Mathsteps Milestones](https://docs.google.com/document/d/1Yn_1DqySb-3nf9Cz9zDz3yiHmz9kbVEGfMs9yrqxmZM/edit)
+
 We'd also like to have tools that:
 
 - update the spec to match what math-parser is currently producing
