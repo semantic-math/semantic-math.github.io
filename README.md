@@ -1,7 +1,5 @@
 # semantic-math.github.io
 
-Future home of Semantic Math homepage
-
 ## Goals
 
 - provide an AST specification that can describe algebraic, geometric, and other
